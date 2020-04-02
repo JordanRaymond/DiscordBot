@@ -1,0 +1,19 @@
+{
+  "name": "boti",
+  "version": "1.0.0",
+  "description": "Discord bot for learning and fun",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jordan Raymond",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "discord.js": "^11.5.1",
+    "dotenv": "^8.2.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.4"
+  }
+}
